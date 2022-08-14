@@ -1,2 +1,5 @@
-print ("hello world!;");
+print ("hello world!");
 привет;
+hello advanced v1;
+рад тебя видеть;
+
